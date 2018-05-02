@@ -1,0 +1,10 @@
+C:\Users\KL\AAA_code\til_20180502\csharp\obj\Debug\netcoreapp2.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\KL\AAA_code\til_20180502\csharp\obj\Debug\netcoreapp2.0\csharp.AssemblyInfoInputs.cache
+C:\Users\KL\AAA_code\til_20180502\csharp\obj\Debug\netcoreapp2.0\csharp.AssemblyInfo.cs
+C:\Users\KL\AAA_code\til_20180502\csharp\bin\Debug\netcoreapp2.0\csharp.deps.json
+C:\Users\KL\AAA_code\til_20180502\csharp\bin\Debug\netcoreapp2.0\csharp.runtimeconfig.json
+C:\Users\KL\AAA_code\til_20180502\csharp\bin\Debug\netcoreapp2.0\csharp.runtimeconfig.dev.json
+C:\Users\KL\AAA_code\til_20180502\csharp\bin\Debug\netcoreapp2.0\csharp.dll
+C:\Users\KL\AAA_code\til_20180502\csharp\bin\Debug\netcoreapp2.0\csharp.pdb
+C:\Users\KL\AAA_code\til_20180502\csharp\obj\Debug\netcoreapp2.0\csharp.dll
+C:\Users\KL\AAA_code\til_20180502\csharp\obj\Debug\netcoreapp2.0\csharp.pdb
